@@ -1,8 +1,3 @@
-# Bonjour ! 🥖
-
-My name is Valentin Briand. I am a freelance frontend developer living near Paris, France. 🥐
-
-[![Readme Quotes](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=monokai)](https://github.com/piyushsuthar/github-readme-quotes)
 
 ## 🛠  Technologies and tools
 
@@ -24,7 +19,3 @@ My name is Valentin Briand. I am a freelance frontend developer living near Pari
 ## 🔍  Where to find me
 
 [<img src="https://img.shields.io/badge/LinkedIn-282C34?logo=linkedin&logoColor=0077B5" alt="LinkedIn logo" title="LinkedIn" height="25" />](https://www.linkedin.com/in/darsh-jasani)
-
-[tech_tools_anchor]: #bonjour--
-[learning_now_anchor]: #learning-now
-[learning_next_anchor]: #learning-next
