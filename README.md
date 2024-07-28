@@ -19,6 +19,10 @@
 
 ## 🔍  Where to find me
 
+[<img src="https://img.shields.io/badge/PortFolio-282C34?logo=chromewebstore&logoColor=00000" alt="Email logo" title="Email" height="25" />](https://darshkumar-portfolio.web.app/)
+&nbsp;
+[<img src="https://img.shields.io/badge/GitHub-282C34?logo=github&logoColor=00000" alt="GitHub logo" title="GitHub" height="25" />](https://github.com/darshjasani)
+&nbsp;
 [<img src="https://img.shields.io/badge/LinkedIn-282C34?logo=linkedin&logoColor=0077B5" alt="LinkedIn logo" title="LinkedIn" height="25" />](https://www.linkedin.com/in/darsh-jasani)
 
 [tech_tools_anchor]: #bonjour--
