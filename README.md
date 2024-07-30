@@ -55,6 +55,10 @@ It's a comprehensive front-end project featuring various HTML templates and UI c
 &nbsp;
 [<img src="https://img.shields.io/badge/LinkedIn-282C34?logo=linkedin&logoColor=0077B5" alt="LinkedIn logo" title="LinkedIn" height="25" />](https://www.linkedin.com/in/darsh-jasani)
 
+## Acknowledgments 
+
+I would love to acknowledge Code Themes for wonderful base templates and open to modification. 
+
 [tech_tools_anchor]: #bonjour--
 [learning_now_anchor]: #learning-now
 [learning_next_anchor]: #learning-next
