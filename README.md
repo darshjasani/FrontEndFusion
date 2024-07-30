@@ -2,6 +2,10 @@
 
 It's a comprehensive front-end project featuring various HTML templates and UI components. This repository includes different styles of navigation menus, authentication forms, UI elements, and ready-to-use form templates to build a robust and interactive web application.
 
+### Screenshots
+
+! [Screenshots](samples/ace%20editor.png)
+
 
 ## 🛠  Technologies and tools
 
