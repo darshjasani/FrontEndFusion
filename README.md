@@ -2,11 +2,32 @@
 
 It's a comprehensive front-end project featuring various HTML templates and UI components. This repository includes different styles of navigation menus, authentication forms, UI elements, and ready-to-use form templates to build a robust and interactive web application.
 
-### Screenshots
+### Sample Templates
 
-! [Screenshots](samples/ace%20editor.png)
+1) Ace Editor in Dask Mode  
+  ![Main Scene](samples/ace%20editor.png)
 
+2) Card Display
+  ![Main Scene](samples/card%20display.png)
 
+3) Credit Card Page
+  ![Main Scene](samples/credit%20card%20page.png)
+
+4) Details List Analysis
+   ![Main Scene](samples/detail%20list%20analysis%20page.png)
+   
+5) Email Showcase
+   ![Main Scene](samples/email%20showcase%20page.png)
+   
+6) Invoice
+    ![Main Scene](samples/invoice%20page.png)
+    
+7) Product
+    ![Main Scene](samples/product%20page.png)
+    
+8) Sign In
+    ![Main Scene](samples/sign%20in%20page.png)
+      
 ## 🛠  Technologies and tools
 
 <a name="learning-now"></a>
