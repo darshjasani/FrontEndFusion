@@ -3,7 +3,7 @@
 It's a comprehensive front-end project featuring various HTML templates and UI components. This repository includes different styles of navigation menus, authentication forms, UI elements, and ready-to-use form templates to build a robust and interactive web application. 
 
 The provided images showcase a sophisticated dashboard template with a modern and intuitive design. The template includes a variety of navigation options, UI elements, form components, and data tables, all neatly organized for ease of use. The dashboard also features advanced components like animations and sticky notes, enhancing the user experience. With integrated charts and detailed visual representations, this template is ideal for developing robust and interactive web applications.
-
+ 
 ### Sample Templates
 
 1) Ace Editor in Dask Mode  
